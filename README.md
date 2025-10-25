@@ -44,3 +44,7 @@ make
 * 字集： Unicode 15.1
 * 许可： GPL-3.0
 
+## 其它
+
+1. https://github.com/cjkvi/cjkvi-ids
+
