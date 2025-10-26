@@ -1,11 +1,11 @@
-.PHONY: all chise babelstone sky sky_tw yuhao shanren clean
+.PHONY: all chise babelstone sky sky_tc yuhao shanren clean
 
 CURL_OPTS  := -fSL
 CURLS_OPTS := --proto =https --tlsv1.2 $(CURLS_OPTS)
 
 YUSTAR_VER := v3.10.1
 
-all: chise babelstone sky sky_tw yuhao shanren
+all: chise babelstone sky sky_tc yuhao shanren
 
 chise: tmp/ids-master.tar.gz
 	rm -rf $@ tmp/ids-master
@@ -22,11 +22,11 @@ sky: tmp/sky.div.rar
 	mkdir -p $@
 	cp tmp/sky/{说明,*拆分*}.txt $@/
 
-sky_tw: tmp/sky_tw.div.rar
-	rm -rf tmp/sky_tw
-	unrar x -optmp/sky_tw $<
+sky_tc: tmp/sky_tc.div.rar
+	rm -rf tmp/sky_tc
+	unrar x -optmp/sky_tc $<
 	mkdir -p $@
-	cp tmp/sky_tw/{说明,*拆分*}.txt $@/
+	cp tmp/sky_tc/{说明,*拆分*}.txt $@/
 
 yuhao: tmp/yustar_$(YUSTAR_VER).zip
 	rm -rf tmp/yuhao
@@ -50,10 +50,11 @@ tmp/sky.div.rar:
 	mkdir -p tmp
 	curl $(CURL_OPTS) -o $@ "http://soongsky.com/download.php/sky/sky.div.rar?id=`date +%s`"
 
-tmp/sky_tw.div.rar:
+# 大陆传统旧字形，递进拆分见 sky.div.rar
+tmp/sky_tc.div.rar:
 	mkdir -p tmp
 	echo "Currently download from QQ group 631302614"
-	#curl $(CURL_OPTS) -o $@ "http://soongsky_tw.com/download.php/sky_tw/sky_tw.div.rar?id=`date +%s`"
+	#curl $(CURL_OPTS) -o $@ "http://soongsky.com/download.php/sky/sky_tc.div.rar?id=`date +%s`"
 
 tmp/yustar_$(YUSTAR_VER).zip:
 	mkdir -p tmp
