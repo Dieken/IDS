@@ -1,7 +1,7 @@
 .PHONY: all chise babelstone sky sky_tc yuhao shanren clean
 
 CURL_OPTS  := -fSL
-CURLS_OPTS := --proto =https --tlsv1.2 $(CURLS_OPTS)
+CURLS_OPTS := --proto =https --tlsv1.2 $(CURL_OPTS)
 
 YUSTAR_VER := v3.10.1
 
@@ -53,8 +53,7 @@ tmp/sky.div.rar:
 # 大陆传统旧字形，递进拆分见 sky.div.rar
 tmp/sky_tc.div.rar:
 	mkdir -p tmp
-	echo "Currently download from QQ group 631302614"
-	#curl $(CURL_OPTS) -o $@ "http://soongsky.com/download.php/sky/sky_tc.div.rar?id=`date +%s`"
+	curl $(CURL_OPTS) -o $@ "http://soongsky.com/download.php/sky/sky_tc.div.rar?id=`date +%s`"
 
 tmp/yustar_$(YUSTAR_VER).zip:
 	mkdir -p tmp

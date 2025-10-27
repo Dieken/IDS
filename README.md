@@ -7,6 +7,8 @@ make clean
 make
 ```
 
+注意：本仓库不定期手动同步、提交数据，请自行运行上述命令获取最新文件！
+
 ## 数据
 
 ### CHISE IDS
@@ -28,7 +30,7 @@ make
 * 主页： http://soongsky.com/sky/download.php
 * 作者： 宋天
 * 字集： Unicode 17.0
-* 许可： 未知
+* 许可： CC BY-NC-ND 4.0
 
 ### 宇码拆分
 
