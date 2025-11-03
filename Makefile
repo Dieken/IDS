@@ -1,20 +1,25 @@
-.PHONY: all chise babelstone sky sky_tc yuhao shanren clean
+.PHONY: all baiyi chise babelstone sky sky_tc yuhao shanren clean
 
 CURL_OPTS  := -fSL
 CURLS_OPTS := --proto =https --tlsv1.2 $(CURL_OPTS)
 
 YUSTAR_VER := v3.10.1
 
-all: chise babelstone sky sky_tc yuhao shanren
+all: baiyi chise babelstone sky sky_tc yuhao shanren
 
-chise: tmp/ids-master.tar.gz
+baiyi: tmp/baiyi-ids-main.zip
+	rm -rf $@ tmp/$@
+	unzip -d tmp/$@ $<
+	mv tmp/$@/ids-main $@
+
+chise: tmp/chise-ids-master.tar.gz
 	rm -rf $@ tmp/ids-master
 	tar -C tmp -xvf $<
 	mv tmp/ids-master $@
 
-babelstone: tmp/IDS.txt
+babelstone: tmp/babelstone-IDS.txt
 	mkdir -p $@
-	cp -f $< $@/
+	cp -f $< $@/IDS.TXT
 
 sky: tmp/sky.div.rar
 	rm -rf tmp/sky
@@ -38,11 +43,15 @@ shanren: tmp/ShanRenMaLTS/单字表.csv tmp/ShanRenMaLTS/兼容拆分表.csv
 	mkdir -p $@
 	cp $^ $@/
 
-tmp/ids-master.tar.gz:
+tmp/baiyi-ids-main.zip:
+	mkdir -p tmp
+	curl $(CURLS_OPTS) -o $@ 'https://github.com/yi-bai/ids/archive/refs/heads/main.zip'
+
+tmp/chise-ids-master.tar.gz:
 	mkdir -p tmp
 	curl $(CURLS_OPTS) -o $@ 'https://gitlab.chise.org/chise/ids/-/archive/master/ids-master.tar.gz?ref_type=heads'
 
-tmp/IDS.txt:
+tmp/babelstone-IDS.txt:
 	mkdir -p tmp
 	curl $(CURLS_OPTS) -o $@ https://www.babelstone.co.uk/CJK/IDS.TXT
 
@@ -68,5 +77,5 @@ tmp/ShanRenMaLTS/兼容拆分表.csv:
 	curl $(CURLS_OPTS) -o $@ https://raw.githubusercontent.com/siuze/ShanRenMaLTS/refs/heads/master/src/data/%E5%85%BC%E5%AE%B9%E6%8B%86%E5%88%86%E8%A1%A8.csv
 
 clean:
-	rm -rf tmp/ids-master* tmp/IDS.TXT tmp/sky*.div.rar tmp/yustar*.zip tmp/ShanRenMaLTS
+	rm -rf tmp/baiyi-ids-main.zip tmp/chise-ids-master* tmp/babelstone-IDS.TXT tmp/sky*.div.rar tmp/yustar*.zip tmp/ShanRenMaLTS
 

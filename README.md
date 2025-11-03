@@ -11,6 +11,13 @@ make
 
 ## 数据
 
+### 白易 IDS
+
+* 主页： https://github.com/yi-bai/ids
+* 作者： 白易
+* 字集： Unicode 17.0
+* 许可： MIT
+
 ### CHISE IDS
 
 * 主页： https://gitlab.chise.org/CHISE/ids
