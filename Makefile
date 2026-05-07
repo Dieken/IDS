@@ -3,7 +3,7 @@
 CURL_OPTS  := -fSL
 CURLS_OPTS := --proto =https --tlsv1.2 $(CURL_OPTS)
 
-YUSTAR_VER := v3.10.1
+YUSTAR_VER := v3.11.0
 
 all: baiyi chise babelstone sky sky_tc yuhao shanren
 
