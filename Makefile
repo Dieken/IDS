@@ -25,13 +25,13 @@ sky: tmp/sky.div.rar
 	rm -rf tmp/sky
 	unrar x -optmp/sky $<
 	mkdir -p $@
-	cp tmp/sky/{说明,*拆分*}.txt $@/
+	cp tmp/sky/*.txt $@/
 
 sky_tc: tmp/sky_tc.div.rar
 	rm -rf tmp/sky_tc
 	unrar x -optmp/sky_tc $<
 	mkdir -p $@
-	cp tmp/sky_tc/{说明,*拆分*}.txt $@/
+	cp tmp/sky_tc/*.txt $@/
 
 yuhao: tmp/yustar_$(YUSTAR_VER).zip
 	rm -rf tmp/yuhao
