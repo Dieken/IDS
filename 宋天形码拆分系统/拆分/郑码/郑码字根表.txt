@@ -1,0 +1,844 @@
+一 a * av
+#㇐ a aaa
+㇀ a aaa
+丁 ai
+丅 ai aa
+土 b a
+士 b aa
+二 bd
+𠄞 bd aa
+𠄟 bd aa
+𠄠 bd aa
+工 bi
+𰀁 bi aa
+{𰀁歪} bi
+示 bk
+⺬ bk aa
+{𱍐K} bk
+{𬼽穿儿} bk aa
+耂 bm aa
+{者G} bm
+走 bo
+亞 bz a
+𠁁 bz aa
+𬻞 bz aa
+#{𠁁贯穿} bz aa
+#{𬻞贯穿} bz aa
+{卯头𠁁} bz aa
+{𡸭上} bz aa
+{𥉢右上} bz aa
+王 c a
+⺩ c aaa
+鬥 cc a
+三 cd
+{二下一} cd
+耳 ce
+𭺪 ce aa
+{𭺪形} ce aa
+𭺫 ce aa
+{㔿中丶} ce aa
+髟 ch aa
+镸 ch aa
+長 ch a
+#⻑ ch aa
+长 ch
+#⻓ ch aa
+丰 ci
+龶 ci aa
+{丿交土} ci aa
+{寿上} ci
+{邦左} ci
+豐 ci a
+{三交亅} ci aa
+耒 ck a
+{𦍎下} ck aa
+𦓤 ck aa
+𡗗 co aa
+春 co
+玉 cs
+馬 cu a
+{馬上} cu
+𫠉 cu aa
+扌 d aaa
+{二交亅} d
+{𠄟交亅} d
+𬺰 d aaa
+寸 ds
+艹 e aaa
+⺿ e aaa
+卄 e aaa
+{サ} e
+廾 e aaa
+{带上} e aaa
+{一交𝍬} e aaa
+廿 ea
+龷 ea aa
+{龷卄换⺿} ea aa
+{丗G} ea a
+{丗T} ea a
+𠀍 ea aa
+{卌下一} ea
+{帶上} ea
+#{𬻂廾换卄} ea
+#𬻂 ea
+甘 eb
+𠀎 eb aa
+{廿交一} eb aa
+{龷中一} eb aa
+{𠀎中丨} eb aa
+其 ec
+{其八换儿} ec
+{其上} ec
+{卄中二} ec
+十 ed
+𬂛 ed aa
+革 ee
+𢦏 eh aa
+栽 eh
+木 f a
+朩 f aa
+𣎳 f aaa
+#{十穿丿丨} f aaa
+#{朩无钩} f a
+#{木钩} f aa
+甫 fb a
+{甫去丶} fb
+酉 fd a
+{酉儿换𝍪} fd a
+𮠕 fd aa
+{酉儿换ㅛ} fd aa
+覀 fj aa
+西 fj
+#⻄ fj aa
+襾 fj aa
+{襾下一} fj
+#{𫰗上} fj
+{惠上} fk
+車 fk a
+{土中日} fk
+雨 fv
+⻗ fv aa
+{𝍰交冖} fv
+石 g a
+丆 g aaa
+大 gd
+𠂇 gd aa
+厂 gg
+辰 gh
+不 gi
+而 gl
+龙 gm
+#⻰ gm aa
+尨 gm a
+页 go
+#⻚ go aa
+頁 go a
+豕 gq a
+𧰨 gq aa
+乑 gq aa
+𧰧 gq aa
+𬺷 gq aa
+𬺻 gq aa
+{𬺷㇏} gq aa
+{𬺻去𰀪} gq aa
+{𧰧去一} gq aa
+{乑丿} gq aa
+{𬺻去一} gq aa
+尤 gr
+尢 gr aa
+兀 gr a
+#⺎ gr aa
+兀 gr aa
+匚 h aaa
+匸 h aaa
+𠥓 h aaa
+臣 h a
+𦣞 h aaa
+𦣝 h aaa
+#{𦣝去丨} h aaa
+#{𮎼下} h aaa
+{畏下} h
+𰀂 h aaa
+𰀄 h aaa
+#{黽左下} h aaa
+{旡去儿} h
+至 hb
+七 hd
+{东上} hd
+{切左} hd
+𫠠 hd aa
+{巠上} hd
+车 he
+#⻋ he aa
+牙 hi
+#{牙形} hi
+戈 hm
+戊 hm aa
+𭠍 hm aa
+{㦮去丶} hm aa
+戋 hm aa
+㦮 hm aa
+𢦍 hm aa
+𢦑 hm aa
+弋 hs
+{㦮去丿} hs
+虫 i a
+蟲 i aa
+丨 i aaa
+亅 i aaa
+卜 id
+⺊ id aa
+{ㅑ} id aa
+虍 ih aa
+虎 ih
+#⻁ ih aa
+止 ii
+龰 ii aa
+{𬼉下} ii
+齿 io
+#⻮ io aa
+齒 io a
+口 j a
+〇 j aa
+㇣ j aaa
+{◇} j aaa
+囗 jd aa
+因 jd
+足 ji
+⻊ ji aa
+𲧱 ji aa
+日 k a
+曰 k aa
+⺜ k aaa
+{衰中} k
+𫩏 k aaa
+非 kc
+刂 kd a
+#⺉ kd aa
+〢 kd
+{ㅒ} kd aa
+{リ} kd
+{丨丨} kd
+{𝍫} kd aa
+〣 kd aa
+{〢丨} kd aa
+{𝍬} kd
+田 ki
+{横申} ki
+由 kia
+{𲅯中} kia a
+甲 kib
+申 kic
+{囗交十} kic
+{婁上} kj
+{𡝤上} kj
+{𡫤中} kj
+小 ko
+⺌ ko aa
+𣥂 ko aa
+𡭔 ko aa
+#{木去一} ko aa
+#{木钩去一} ko aa
+#{丨穿八} ko
+{丨穿丿丨} ko aa
+业 ku
+{虛下} ku
+業 ku a
+{業} ku
+{亚中} ku
+水 kv
+氺 kv a
+#⺢ kv aa
+{𰀪丨⺀} kv
+#{𰀪亅⺀} kv
+{二丨二} kv a
+{⺀丨⺀} kv
+{永下} kv
+#{水无钩} kv
+{竖☵} kv
+目 l a
+{囗中三} l aaa
+且 lc
+{具上G} lc
+冂 ld aa
+ㄇ ld aa
+⺆ ld aa
+{⺆无钩} ld aa
+同 ld
+{同无钩} ld
+{宽月} ld *
+{宽⺝} ld *
+冃 ld *
+{⺝无钩} ld *
+{ㄇ中八} ld
+𠕁 ld *
+冈 ld *
+岡 ld *
+囘 ld *
+冋 ld *
+𦉪 ld *
+{南下} ld
+⺵ ld *
+𦉫 ld *
+{啇下} ld
+𠔿 ld *
+𦉰 ld *
+网 ld *
+㒺 ld *
+{甬下} ld
+円 ld *
+罔 ld *
+用 ld * lv
+{鬲下} ld
+{繭下} ld
+冏 ld *
+𭁟 ld *
+𱏻 ld *
+𡶬 ld *
+𦉳 ld *
+𠔽 ld *
+𠕎 ld *
+𠕌 ld *
+𭁨 ld *
+𠔼 ld *
+𠕀 ld *
+{冂块} ld *
+𘠿 ld *
+𘡹 ld *
+巾 li
+{巾无钩} li
+咼 lj aa
+罒 lk aa
+四 lk
+{柬中} lk aa
+{曾中} lk aa
+皿 lka
+山 ll
+贝 lo a
+#⻉ lo aa
+貝 lo aa
+见 lr
+#⻅ lr aa
+見 lr a
+骨 lw
+#⻣ lw aa
+{骨上} lw
+⺮ m aaa
+{⺮半} m
+丿 m aaa
+㇢ m aaa
+矢 ma
+𠂉 ma aa
+牛 mb
+#{𠂉下一} mb
+牜 mb aa
+⺧ mb aa
+㐄 mb a
+{ヰ} mb aa
+{㐄钩} mb aa
+{𠃋交十} mb aa
+{𠃋交十钩} mb aa
+生 mc
+手 md
+龵 md aa
+{手旁} md aa
+{丿下𰀁} md aa
+#{手交一} md
+#{龵交一} md
+千 me
+禾 mf
+#{禾有钩} mf
+{余下} mf
+{余下无钩} mf
+毛 mh
+{舌G} mi
+{舌T} mi
+攵 mo aa
+气 my
+氣 my aa
+亻 n aaa
+{段左去三} n aaa
+臼 nb a
+⺽ nb aa
+{𦥓㐅换一} nb
+𦥔 nb aa
+{臼中丨} nb aa
+{舆去车八} nb
+{𦥯去爻} nb
+{臼⚋换⚏} nb
+{⺽⚏换☷} nb
+{𰀂⺕} nb
+身 nc
+川 nd
+{川丨} nd
+𫶧 nd aa
+{丨穿儿} nd aa
+{丿丨} nd aa
+{丿一丨} nd
+{斉下} nd
+𣶒 nd aa
+{𣶒中断} nd aa
+{丿亅} nd
+隹 ni aa
+#{隹丶换⺈} ni aa
+{隹去丿} ni aa
+鬼 nj
+#⻤ nj aa
+{卑上} nj
+{鬼去厶} nj
+{囟框} nj
+{呂下} nj
+白 nk
+自 nl
+𰃦 nl aa
+{𰃦无钩} nl aa
+{身去三丿} nl aa
+{丿下且} nl
+{𰃦中二} nl
+{𰃦中三} nl
+片 nx
+{鼎右下} nx aa
+#{𣶒左} nx
+{片𠃍换丅} nx
+{片丿换丨} nx aa
+八 o a
+{木去十} o aaa
+𰀪 od aa
+{丿丿} od aa
+人 od
+𠆢 od aa
+入 oda
+彳 oi aa
+行 oi
+乂 os a
+㐅 os aa
+𠂭 os aa
+食 ox
+#⻝ ox aa
+飠 ox aa
+⻞ ox aa
+饣 ox aa
+金 p a
+钅 p aaa
+釒 p aaa
+彡 pd aa
+斤 pd
+⺁ pd aa
+丘 pda
+釆 pf aa
+豸 pq a
+𮙥 pq aa
+瓜 ps
+爪 pv
+爫 pv aa
+⺥ pv aa
+𫜵 pv aa
+𤓰 pv aa
+𰢛 pv aa
+#{⺁八} pv aa
+𱬴 pv aa
+舟 py
+{舟÷换十} py
+{𠔾交丶} py
+{𠔾去一} py
+月 q * qv
+⺼ q aaa
+{月框} q
+{⺆中一} q
+{⺆中三} q
+⺝ q aaa
+{⺝} q
+{月} q
+{冂中三} q
+{⺆中⺀} q * qv
+{冂中⺀} q aaa
+几 qd
+⺇ qd aa
+𠘧 qd aa
+{丿乁} qd aa
+凡 qda
+{卂十换㐅} qda
+{丮𰀁换丿⺀} qda
+風 qi a
+犭 qm a
+#⺨ qm aa
+{𬺷去一} qm aa
+殳 qx a
+九 qy
+{丸G} qya
+#{丸T} qya
+鱼 r a
+#⻥ r aaa
+⺈ r aaa
+{尔上} r aaa
+𠂊 r aaa
+{亙中去⺀} r aaa
+{鱼上} r
+魚 r aa
+儿 rd
+{冘下} rd
+{丿㇂} rd
+氏 rh
+𧘇 rh aa
+{乐上} rh
+{卬左} rh aa
+{氏去𫠠} rh aa
+{𧘇左} rh aa
+{丿下𠃊} rh
+{𠒂左上} rh aa
+𱍸 rh aa
+#{𱍸形} rh aa
+{𠂢下} rh aa
+#{𧘇形} rh aa
+{𧘇丿} rh aa
+欠 ro
+匕 rr a
+𠤎 rr aa
+{比左} rr a
+{𠃊中一} rr
+#{反匕} rr
+夕 rs
+夂 rs aa
+夊 rs a
+{麥下} rs a
+𱼀 rs aa
+{亙中} rs
+{⺈中⺀} rs aa
+{亙中去丶} rs
+{⺈中丶} rs
+{夊中丶} rs
+{祭上} rs
+{𫞴上} rs
+{𡛹上} rs
+{𭾽上} rs
+{𬞂中} rs
+勹 ry aa
+包 ry
+匃 ry a
+鸟 rz
+#⻦ rz aa
+{鸟上} rz
+{𡷊上} rz
+鳥 rz
+{鳥上} rz
+#{鳥上形} rz
+𫠓 rz aa
+乌 rza
+烏 rza a
+{烏上} rza
+{烏去一} rza
+{烏灬换一} rza
+言 s a
+讠 s aaa
+訁 s aaa
+亠 s aaa
+丶 s aa
+#㇔ s aaa
+㇏ s aaa
+乀 s aaa
+辛 se
+{辣左} se
+𨐋 se aa
+亡 sh
+龍 si a
+{永G} sk
+𰁜 sk aa
+文 so
+立 su
+方 sy
+疒 t aaa
+病 t a
+冫 td aa
+{飞右} td
+{𰀠右} td
+⺀ td aa
+{丶丶} td
+广 tg
+廣 tg a
+丬 ti a
+#⺦ ti aa
+{北左} ti
+门 tl
+#⻔ tl aa
+鹿 tx
+#{鹿交一} tx
+{鹿上} tx
+忄 u aaa
+⺗ u aaa
+{小丶} u aaa
+㣺 u aaa
+{𰍧⺀} u aaa
+䒑 ua a
+{一交丷} ua aa
+{伞下} ua aa
+{乎下} ua
+{半G} ub
+{判左G} ub
+𢆉 ub aa
+𦍍 ub aa
+龹 ub aa
+羊 uc
+⺷ uc aa
+⺶ uc aa
+{羚左} uc aa
+{菐下} uc
+丷 ud aa
+𬼀 ud aa
+{州左} ud aa
+{州中} ud
+米 uf
+火 uo
+灬 uo aa
+{⺍丿} uo
+{横四点} uo
+氵 v aaa
+{ミ} v aaa
+{冫く} v
+{𰀪⺀} v
+{⺀⺀} v
+{⺀𰀪} v
+⺍ vd aa
+{横三点} vd aa
+{糹下} vd aa
+{ツ} vd aa
+辶 w aaa
+⻎ w aaa
+⻍ w aaa
+{丶下廴} w
+之 w a
+{丶下龴} w
+宀 wd aa
+定 wd
+户 wm
+戶 wm a
+穴 wo
+礻 ws aa
+衤 wt aa
+冖 ww a
+黽 wx a
+{𮮡上} wx
+{𦥼上} wx
+{黽𰀄换⺽} wx
+#{口黽} wx
+{黽形} wx
+{龜下} wx aa
+𪚴 wx aa
+{𪚴𠂭换一} wx aa
+{𪚴𠂭换二} wx aa
+#{口𪚴中一} wx aa
+{黽中} wx aa
+心 wz
+马 x a
+#⻢ x aaa
+{ユ} x aaa
+{コ} x aaa
+𫝀 x aaa
+{叏上} x aaa
+{コ交丨} x aaa
+{Ｐ} x
+乛 x aaa
+㇇ x aaa
+𠃍 x aaa
+㇁ x aaa
+㇘ x aaa
+{㇏钩} x aaa
+𫜹 xb aa
+{反𰀂} xb aa
+彐 xb a
+⼹ xb aa
+𬺹 xb aa
+{肀下平} xb
+{𭆄中} xb
+{争下} xb
+肀 xb a
+#⺺ xb aa
+⺻ xb aa
+{書上} xb
+{𫜹交丨} xb
+#{争下无钩} xb
+#{⺕中丨} xb
+{⺕交亅} xb
+門 xd
+𨳈 xd aa
+{門形} xd aa
+皮 xi
+{兼下} xk
+{⺕交𝍪} xk
+{𠔥中} xk
+{𬾹右下} xk
+{𠙐上} xk
+{⼹交𝍪} xk
+#{コ中卄} xk
+尸 xm
+𠃜 xm aa
+{𡔝下} xm
+{尸中𝍪} xm
+{倉中} xm
+尹 xma
+{尹右平} xma
+{尸交一} xma
+艮 xo aa
+{即左} xo
+{⻞下} xb
+{艮Ｋ换匕} xb
+又 xs
+龴 xs aa
+{ス} xs
+癶 xs a
+{癶𰀪换㇇} xs
+{癶去丿} xs
+{祭右上} xs
+了 y * yv
+𠄏 y aaa
+阝 y aaa
+卩 y aaa
+𰆊 y aaa
+{𠬝上} y aaa
+廴 y aaa
+#{之下} y
+{㠯G} y aaa
+{⻕下} y aaa
+𮍌 y aaa
+#𤕪 y aaa
+𠃌 y aaa
+㇌ y aaa
+𠄎 y aaa
+㇎ y aaa
+㇋ y aaa
+㇅ y aaa
+㇊ y aaa
+{𠄎形} y aaa
+{㇎形} y aaa
+{反乚} y
+{㇋形} y aaa
+子 ya
+孑 ya a
+刀 yd
+乙 yda
+#㇠ yda a
+⺄ yda a
+乁 yda a
+㇈ yda a
+㇍ yda a
+{乙形} yda
+也 yi
+巴 yia
+力 ym
+{万下} ym
+习 yt
+{习K} yt
+己 yy
+{改左G} yy
+已 yya
+巳 yyb
+{攺左G} yyb
+{民上} yyb
+#⺒ yyb a
+㔾 yyb
+{顾左下} yyb
+⺋ yyb a
+弓 yz a
+𢎨 yz a
+{弓无钩} yz aa
+𢎗 yz aa
+𢎜 yz aa
+纟 z aaa
+糸 z aa
+糹 z aaa
+㇄ z aaa
+𠃊 z aaa
+𠃋 z aaa
+𡿨 z aaa
+㇂ z aaa
+㇃ z aaa
+𠄌 z aaa
+乚 z aaa
+𠃑 z aaa
+㇉ z aaa
+𠃉 z aaa
+ㄣ z aaa
+{α} z
+{𠆭下} z aaa
+{𡦹下} z aaa
+{𢀓中} z aaa
+{𦹗左下} z aaa
+{ℓ} z aaa
+{𠃉形} z aaa
+{り} z
+巛 zd a
+巜 zd aa
+𡿦 zd aa
+{巜巜} zd
+{鼠下} zd
+凵 zi aa
+{𠚜框} zi aa
+{𠚖框} zi aa
+{𧀍下框} zi aa
+{𠚡框} zi aa
+丩 zi aa
+屮 zi aa
+䶹 zi aa
+丱 zi aa
+{丱丿换丨} zi
+爿 zi a
+{𤕫左} zi
+{鼎左下} zi
+{𣶒右} zi
+{丩钩} zi
+女 zm
+𠂈 zm aa
+{亥中} zm aa
+{互中} zm
+彑 zm aa
+厶 zs a
+{以左} zs
+{虫去口} zs aa
+𠙴 zs aa
+{Δ} zs
+龻 zs aa
+䜌 zs aa
+母 zy
+#⺟ zy aa
+毌 zy aa
+{毎下} zy aa
+{母中丿} zy aa
+{母框} zy
+{毌框} zy
+
+# 增设字根？
+#𩰲 yl a
+
+# 西夏文专用字根
+𗢨 o aaa
+𘡃 mo aa
+𘠴 ar aa
+𘦳 ux aa
+𘫺 zm aa
+𘠡 ym aa
+𘡋 ui aa
+𘠺 qa aa
+#𘢦 uq aa
+
+# 特殊构词码
+地 * * bv
+现 * * cv
+的 * * dv
+世 * * ev
+要 * * fv
+在 * * gv
+成 * * hv
+上 * * iv
+中 * * jv
+是 * * kv
+我 * * mv
+他 * * nv
+个 * * ov
+所 * * pv
+多 * * rv
+说 * * sv
+度 * * tv
+为 * * uv
+没 * * vv
+这 * * wv
+对 * * xv
+发 * * zv
